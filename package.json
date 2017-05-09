@@ -25,5 +25,5 @@
     "url": "git+https://github.com/uonick/dimmed-base16-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.0.1"
+  "version": "0.0.1"
 }
